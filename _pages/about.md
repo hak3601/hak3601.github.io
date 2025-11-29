@@ -7,25 +7,33 @@ redirect_from:
   - /about.html
 ---
 
+My research is centered on **Social Data Science**, focusing on the application of data mining and graph learning to analyze and improve complex societal systems.
 
-Position
-======
-[Machine INtelligence & Data Science Laboratory - MINDS Lab](https://sites.google.com/view/cau-minds-lab/team?authuser=0#h.ofxovz4w4q69)
+I am an **Undergraduate Research Student** in Computer Science and Engineering at **Chung-Ang University**, working in the **Machine INtelligence & Data Science (MINDS) Lab**. My primary objective is to develop socially responsible machine learning methodologies that directly address real-world data challenges.
 
-- Undergraduate Research Student
-- 2024 May ~ present
-- Supervisor: Prof. [Yunyong Ko](https://yy-ko.github.io)
+My core research theme involves creating **Trustworthy AI** models for social applications, with particular emphasis on:
 
-Reserarch Interests
-------
-- **Trustworthy AI**
-  - Fairness in AI models
-- **Social Data Science**
-  - Social Network Analysis and Mining
-  - Mitigating Social and Political Polarization
+* **Social Network Analysis and Mining:** Leveraging **Graph Learning** to understand the structure and dynamics of large-scale social systems.
+* **Mitigating Social Polarization:** Developing data-driven strategies to analyze, detect, and reduce political and social fragmentation.
+* **Responsible AI:** Ensuring models are robust, **fair**, and **interpretable** before deployment in social or data-driven contexts.
 
-Education
-======
-**Chung-Ang University** (2023 - 2027)
-B.S in Computer Science and Engineering
+I aim to bridge the gap between technical innovation and societal responsibility, building transparent models applicable to complex human-centric data.
 
+---
+
+### 📍 Current Research Position
+* **Machine INtelligence & Data Science Laboratory - [MINDS Lab](https://sites.google.com/view/cau-minds-lab/team?authuser=0#h.ofxovz4w4q69)**
+    * **Role:** Undergraduate Research Student
+    * **Duration:** May 2024 – Present
+    * **Supervisor:** Prof. [Yunyong Ko](https://yy-ko.github.io)
+
+### 🔬 Research Interests
+* **Social Data Science** (Graph Learning, Social Network Analysis, Polarization Mitigation)
+* **Trustworthy AI** (Fairness, Interpretability, Robustness)
+
+### 🎓 Education
+* **Chung-Ang University**
+    * B.S. in Computer Science and Engineering (2023 - 2027)
+
+* **Sejong University**
+    * Certificate in Korean Language and Literature (2021.09 - 2023.03)
