@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+### About Me
 
 My research is centered on **Social Data Science**, focusing on the application of data mining and graph learning to analyze and improve complex societal systems.
 
@@ -23,17 +24,16 @@ I aim to bridge the gap between technical innovation and societal responsibility
 
 ### 📍 Current Research Position
 * **Machine INtelligence & Data Science Laboratory - [MINDS Lab](https://sites.google.com/view/cau-minds-lab/team?authuser=0#h.ofxovz4w4q69)**
-    * **Role:** Undergraduate Research Student
-    * **Duration:** May 2024 – Present
-    * **Supervisor:** Prof. [Yunyong Ko](https://yy-ko.github.io)
+    * Undergraduate Research Student
+    * May 2024 – Present (**Supervisor:** Prof. [Yunyong Ko](https://yy-ko.github.io))
 
 ### 🔬 Research Interests
 * **Social Data Science** (Graph Learning, Social Network Analysis, Polarization Mitigation)
 * **Trustworthy AI** (Fairness, Interpretability, Robustness)
 
 ### 🎓 Education
-* **Chung-Ang University**
-    * B.S. in Computer Science and Engineering (2023 - 2027)
+* **Chung-Ang University** (2023 - 2027 expected)
+    * B.S. in *Computer Science and Engineering* 
 
-* **Sejong University**
-    * Certificate in Korean Language and Literature (2021.09 - 2023.03)
+* **Sejong University** (2021.09 - 2023.03)
+    * Certificate in *Korean Language and Literature* 
