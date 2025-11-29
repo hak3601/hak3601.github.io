@@ -1,14 +1,10 @@
-/* Justify paragraphs on all pages (including about.md) */
-.page-content p,
-.post-content p,
-.entry-content p {
-  text-align: justify;
-  text-justify: inter-word; /* better spacing */
+/* Justify paragraphs and lists in the main content area */
+.page__content p {
+  text-align: justify !important;
+  text-justify: inter-word;
 }
 
-/* Optional: justify list items too */
-.page-content li,
-.entry-content li {
-  text-align: justify;
+.page__content li {
+  text-align: justify !important;
+  text-justify: inter-word;
 }
-
