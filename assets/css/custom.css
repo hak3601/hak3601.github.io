@@ -4,10 +4,11 @@
 .page-content,
 .entry-content,
 article {
-  max-width: 800px;      /* shrink on laptops/desktops for readability */
-  width: 100%;           /* expand fully on mobile */
-  margin: 0 auto;        /* center */
-  padding: 1rem;         /* spacing */
+  max-width: 800px;     /* shrink on laptops/desktops for readability */
+  width: 100%;          /* expand fully on mobile */
+  margin-left: 0;       /* reset any existing margin */
+  margin-right: auto;   /* align to left */
+  padding: 1rem;        /* spacing */
 }
 
 /* Make images responsive */
