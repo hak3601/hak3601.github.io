@@ -10,7 +10,7 @@ redirect_from:
 ---
 My research is centered on **Social Data Science**, focusing on the application of data mining and graph learning to analyze and improve complex societal systems.
 
-I am an **Undergraduate Research Student** in Computer Science and Engineering at **Chung-Ang University**, working in the **Machine INtelligence & Data Science (MINDS) Lab**. My primary objective is to develop socially responsible machine learning methodologies that directly address real-world data challenges.
+I am an undergraduate student in Computer Science and Engineering at **Chung-Ang University**, working as Research Intern in the **Machine INtelligence & Data Science (MINDS) Lab**. My primary objective is to develop socially responsible machine learning methodologies that directly address real-world data challenges.
 
 My core research theme involves creating **Responsible AI** models for social applications, with particular emphasis on:
 
