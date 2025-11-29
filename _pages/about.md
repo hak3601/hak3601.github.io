@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### About Me
----
+## About Me
+
 My research is centered on **Social Data Science**, focusing on the application of data mining and graph learning to analyze and improve complex societal systems.
 
 I am an undergraduate student in Computer Science and Engineering at **Chung-Ang University**, working as Research Intern in the **Machine INtelligence & Data Science (MINDS) Lab**. My primary objective is to develop socially responsible machine learning methodologies that directly address real-world data challenges.
@@ -35,15 +35,21 @@ I aim to bridge the gap between technical innovation and societal responsibility
 
 ### 🎓 Education
 ---
-* **Chung-Ang University** (2023 - 2027 expected)
+* **Chung-Ang University** (2023.03 - 2027.02 expected)
     * B.S. in *Computer Science and Engineering* 
 
 * **Sejong University** (2021.09 - 2023.03)
-    * Certificate in *Korean Language and Literature* 
+    * Certificate in *Korean Language and Literature*
+    * Level-6 Completed (6급 과정 수료)
 
 ### 💡 Fun Facts
 ---
-- ☕ A coffee enthusiast who loves experimenting with different beans and brewing methods.
-- 📸 Photography helps me find balance and stay creative.
-- 🎥 Movies and nature walks are my favorite ways to relax and recharge.
+* I have many nicknames:
+    * **태아카** (Real name in Korean version)
+    * **이하준** (Korean name)
+    * **June** (English name)
+    * **A.K.** (Short name)
+* ☕ A coffee enthusiast who loves experimenting with different beans and brewing methods.
+* 📸 Photography helps me find balance and stay creative.
+* 🎥 Movies and nature walks are my favorite ways to relax and recharge.
 
