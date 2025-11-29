@@ -20,19 +20,22 @@ My core research theme involves creating **Responsible AI** models for social ap
 
 I aim to bridge the gap between technical innovation and societal responsibility, building transparent models applicable to complex human-centric data.
 
----
 
-### 📍 Current Research Position
+
+### 📍 Position
+---
 * **Machine INtelligence & Data Science Laboratory - [MINDS Lab](https://sites.google.com/view/cau-minds-lab/team?authuser=0#h.ofxovz4w4q69)**
     * Undergraduate Research Student
     * May 2024 – Present 
     * **Supervisor:** Prof. [Yunyong Ko](https://yy-ko.github.io)
 
 ### 🔬 Research Interests
+---
 * **Social Data Science** (Social Network Analysis and Mining, Polarization Mitigation)
 * **Trustworthy AI** (Fairness, Interpretability, Robustness)
 
 ### 🎓 Education
+---
 * **Chung-Ang University** (2023 - 2027 expected)
     * B.S. in *Computer Science and Engineering* 
 
