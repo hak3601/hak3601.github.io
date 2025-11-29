@@ -1,20 +1,14 @@
-/* Limit readable paragraph width while keeping full responsiveness */
-
-.post-content,
-.page-content,
-.entry-content,
-article {
-  max-width: 800px;     /* shrink on laptops/desktops for readability */
-  width: 100%;          /* expand fully on mobile */
-  margin-left: 0;       /* reset any existing margin */
-  margin-right: auto;   /* align to left */
-  padding: 1rem;        /* spacing */
+/* Justify paragraphs on all pages (including about.md) */
+.page-content p,
+.post-content p,
+.entry-content p {
+  text-align: justify;
+  text-justify: inter-word; /* better spacing */
 }
 
-/* Make images responsive */
-.post-content img,
-.page-content img,
-.entry-content img {
-  max-width: 100%;
-  height: auto;
+/* Optional: justify list items too */
+.page-content li,
+.entry-content li {
+  text-align: justify;
 }
+

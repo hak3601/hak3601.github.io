@@ -12,11 +12,11 @@ My research is centered on **Social Data Science**, focusing on the application 
 
 I am an **Undergraduate Research Student** in Computer Science and Engineering at **Chung-Ang University**, working in the **Machine INtelligence & Data Science (MINDS) Lab**. My primary objective is to develop socially responsible machine learning methodologies that directly address real-world data challenges.
 
-My core research theme involves creating **Trustworthy AI** models for social applications, with particular emphasis on:
+My core research theme involves creating **Responsible AI** models for social applications, with particular emphasis on:
 
 * **Social Network Analysis and Mining:** Leveraging **Graph Learning** to understand the structure and dynamics of large-scale social systems.
 * **Mitigating Social Polarization:** Developing data-driven strategies to analyze, detect, and reduce political and social fragmentation.
-* **Responsible AI:** Ensuring models are robust, **fair**, and **interpretable** before deployment in social or data-driven contexts.
+* **Trustworthy AI:** Ensuring models are robust, **fair**, and **interpretable** before deployment in social or data-driven contexts.
 
 I aim to bridge the gap between technical innovation and societal responsibility, building transparent models applicable to complex human-centric data.
 
@@ -25,10 +25,11 @@ I aim to bridge the gap between technical innovation and societal responsibility
 ### 📍 Current Research Position
 * **Machine INtelligence & Data Science Laboratory - [MINDS Lab](https://sites.google.com/view/cau-minds-lab/team?authuser=0#h.ofxovz4w4q69)**
     * Undergraduate Research Student
-    * May 2024 – Present (**Supervisor:** Prof. [Yunyong Ko](https://yy-ko.github.io))
+    * May 2024 – Present 
+    * **Supervisor:** Prof. [Yunyong Ko](https://yy-ko.github.io)
 
 ### 🔬 Research Interests
-* **Social Data Science** (Graph Learning, Social Network Analysis, Polarization Mitigation)
+* **Social Data Science** (Social Network Analysis and Mining, Polarization Mitigation)
 * **Trustworthy AI** (Fairness, Interpretability, Robustness)
 
 ### 🎓 Education
