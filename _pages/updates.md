@@ -1,13 +1,11 @@
 ---
-layout: default
-permalink: /timelines/
+layout: archive
 title: "Updates"
+permalink: /timelines/
 author_profile: true
 ---
 
 {% include base_path %}
-
-## 🚀 Updates
 
 ### 📚 Study
 * Social Networks
