@@ -8,30 +8,24 @@ redirect_from:
 ---
 ## About Me
 
-My research is centered on **Social Data Science**, focusing on the application of data mining and graph learning to analyze and improve complex societal systems.
+I am an undergraduate student majoring in Computer Science and Engineering at **Chung-Ang University**. I am also working as a research student at the **Machine INtelligence & Data Science (MINDS) Lab**, where I focus on developing machine learning methodologies that address complex, human-centric challenges. My primary objective is to design **socially responsible AI** models that directly impact real-world data issues.
 
-I am an undergraduate student in Computer Science and Engineering at **Chung-Ang University**, working as Research Intern in the **Machine INtelligence & Data Science (MINDS) Lab**. My primary objective is to develop socially responsible machine learning methodologies that directly address real-world data challenges.
+My work is built upon two core, interconnected pillars:
 
-My core research theme involves creating **Responsible AI** models for social applications, with particular emphasis on:
+1.  **Social Data Science:** I apply advanced data mining and **Graph Learning** techniques to analyze, model, and improve large-scale societal systems. A key focus is on **Social Network Analysis and Mining** to understand structural dynamics and develop strategies for **Polarization Mitigation**.
 
-* **Social Network Analysis and Mining:** Leveraging **Graph Learning** to understand the structure and dynamics of large-scale social systems.
-* **Mitigating Social Polarization:** Developing data-driven strategies to analyze, detect, and reduce political and social fragmentation.
-* **Trustworthy AI:** Ensuring models are robust, **fair**, and **interpretable** before deployment in social or data-driven contexts.
+2.  **Responsible AI:** I am dedicated to ensuring that AI models are ethical, robust, and ready for deployment in sensitive contexts. My specific field of interest here is **Fairness in AI Models**, alongside working on model **Interpretability** and overall system **Robustness**.
 
-I aim to bridge the gap between technical innovation and societal responsibility, building transparent models applicable to complex human-centric data.
+I strive to bridge the gap between technical innovation and societal responsibility, building transparent, trustworthy, and impactful models.
 
 
 
 ### 📍 Position
 ---
 * **Machine INtelligence & Data Science Laboratory - [MINDS Lab](https://minds.ai.kr)**
-    * Undergraduate Research Student (**Supervisor:** Prof. [Yunyong Ko](https://yy-ko.github.io))
+    * Undergraduate Research Student 
+    * **Supervisor:** Prof. [Yunyong Ko](https://yy-ko.github.io)
     * May 2024 – Present 
-
-### 🔬 Research Interests
----
-* **Social Data Science** (Social Network Analysis and Mining, Polarization Mitigation)
-* **Trustworthy AI** (Fairness, Interpretability, Robustness)
 
 ### 🎓 Education
 ---

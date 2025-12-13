@@ -20,14 +20,14 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  #- title: "Blog Posts"
+  # - title: "Blog Posts"
   #  url: /year-archive/
-
-  - title: "Activities"
-    url: /activities/
     
   - title: "CV"
     url: /cv/
+  
+  - title: "Updates"
+    url: /timelines/
     
   # - title: "CV"
   #   url: /cv-json/
