@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Updates" # Consistent with the navigation link
-permalink: /timeline/ # Consistent with the navigation URL
+title: "Updates" 
+permalink: /timelines/ 
 author_profile: true
 ---
 
