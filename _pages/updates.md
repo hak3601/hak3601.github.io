@@ -1,9 +1,11 @@
 ---
 layout: default
 permalink: /timelines/
-title: "Recent Updates"
+title: "Updates"
 author_profile: true
 ---
+
+{% include base_path %}
 
 ## 🚀 Updates
 
@@ -16,9 +18,9 @@ author_profile: true
     * Materials: [Videos](https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&si=rHFKuOzyllzq-m_h), [Slides](https://snap.stanford.edu/class/cs224w-2021/)
 
 ---
-###  Blog
+### 📜 Blog
 <p align="left">
     <a href="{{ '/year-archive/' | relative_url }}" class="btn btn--primary">
-        Show More Past Updates (Full Timeline)
+        Press Here!
     </a>
 </p>
