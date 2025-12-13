@@ -5,26 +5,19 @@ title: "Recent Updates"
 author_profile: true
 ---
 
-## 🚀 Recent Updates
+## 🚀 Updates
 
-{% include base_path %}
-{% assign posts = site.posts | limit: 5 %}
-
-{% for post in posts %}
-    <div class="archive__item">
-        <h2 class="archive__item-title" itemprop="headline">
-            <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
-        </h2>
-        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 150 }}</p>
-        <span class="archive__item-date">{{ post.date | date: "%Y.%m.%d" }}</span>
-    </div>
-    <hr>
-{% endfor %}
+### 📚 Study
+* Social Networks
+    * Dept. of Sociology
+    * Chung-Ang University
+* Machine Learning with Graphs, 2021
+    * CS224W, Stanford University
+    * Materials: [Videos](https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&si=rHFKuOzyllzq-m_h), [Slides](https://snap.stanford.edu/class/cs224w-2021/)
 
 ---
-
-### 📚 Full Archive
-<p align="center">
+###  Blog
+<p align="left">
     <a href="{{ '/year-archive/' | relative_url }}" class="btn btn--primary">
         Show More Past Updates (Full Timeline)
     </a>
