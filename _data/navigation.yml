@@ -30,7 +30,7 @@ main:
   #   url: /timelines/
 
   - title: "CV"
-    url: /cv-json/
+    url: /files/hak_cv.pdf
     
   #- title: "Guide"
   #  url: /markdown/
