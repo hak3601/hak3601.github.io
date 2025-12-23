@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+{% include base_path %}
+
 ## About Me
 
 I am an undergraduate student majoring in Computer Science and Engineering at **Chung-Ang University**. I am also working as a research student at the **Machine INtelligence & Data Science (MINDS) Lab**, where I focus on developing machine learning methodologies that address complex, human-centric challenges. My primary objective is to design **socially responsible AI** models that directly impact real-world data issues.
