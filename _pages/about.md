@@ -35,18 +35,14 @@ I strive to bridge the gap between technical innovation and societal responsibil
 * **Chung-Ang University** (2023.03 - 2027.02 expected)
     * B.S. in *Computer Science and Engineering* 
 
-* **Sejong University** (2021.09 - 2023.03)
+* **Sejong University** (2021.09 - 2023.02)
     * Certificate in *Korean Language and Literature*
     * Level-6 Completed (6급 과정 수료)
 
 ### 💡 Fun Facts
 ---
-* I have many nicknames:
-    * **태아카** (Real name in Korean version)
-    * **이하준** (Korean name)
-    * **June** (English name)
-    * **A.K.** (Short name)
-* ☕ A coffee enthusiast who loves experimenting with different beans and brewing methods.
+* My English name is "June" and also call me "A.K". 
+* ☕ A coffee enthusiast who works part-time as a berista at cafe.
 * 📸 Photography helps me find balance and stay creative.
 * 🎥 Movies and nature walks are my favorite ways to relax and recharge.
 
