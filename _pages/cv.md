@@ -19,6 +19,9 @@ Education
 * Chung-Ang University, South Korea
   * Mar. 2023 - Feb. 2027 *(expected)*
   * B.S. in *Computer Science and Engineering* 
+* The Educaiton University of Hong Kong 
+  * 2026.07 - 2026.08
+  * Summer School Exchange
 * Sejong University, South Korea
   * 2021.09 - 2023.02
   * Certificated in *Korean Language and Literature*
