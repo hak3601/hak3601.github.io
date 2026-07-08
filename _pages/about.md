@@ -32,12 +32,14 @@ I strive to bridge the gap between technical innovation and societal responsibil
 
 ### 🎓 Education
 ---
-* **Chung-Ang University** (2023.03 - 2027.02 expected)
+* **Chung-Ang University**, South Korea
+    * 2023.03 - 2027.02 expected
     * B.S. in *Computer Science and Engineering* 
-
-* **The Educaiton University of Hong Kong (2026.07 - 2026.08)
+* **The Educaiton University of Hong Kong**, Hong Kong SAR
+    * 2026.07 - 2026.08
     * Summer School Exchange
 
-* **Sejong University** (2021.09 - 2023.02)
+* **Sejong University**, South Korea
+    * 2021.09 - 2023.02
     * Certificate in *Korean Language and Literature*
     * Level-6 Completed (6급 과정 수료)
