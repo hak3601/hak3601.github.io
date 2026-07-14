@@ -11,7 +11,7 @@ redirect_from:
 
 ## About Me
 
-Hi! I’m **Htet Arkar**, an undergraduate student in **Computer Science and Engineering** at Chung-Ang University, where I work as a student researcher at the Machine INtelligence & Data Science (MINDS) Lab. 
+Hi! I’m **Htet Arkar**, an undergraduate student in **Computer Science and Engineering** at Chung-Ang University, where I work as a research intern at MINDS Lab. 
 
 My research focuses on developing human-centric, **socially responsible AI** models, with an emphasis on graph neural networks (GNNs) and algorithmic fairness. I am also interested in **social network analysis** and leveraging **AI technologies for the benefit of society** by deepening the understanding of diverse data sources.
 
@@ -19,8 +19,7 @@ My research focuses on developing human-centric, **socially responsible AI** mod
 ### 📍 Position
 ---
 * Undergraduate Research Student
-    * **Machine INtelligence & Data Science Laboratory - [MINDS Lab](https://minds.ai.kr)**
-    * **Supervisor:** Prof. [Yunyong Ko](https://yy-ko.github.io)
+    * Machine INtelligence & Data Science Laboratory - [MINDS Lab](https://minds.ai.kr)
     * May 2024 – Present 
 
 * Educational Consultant
