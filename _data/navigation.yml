@@ -1,0 +1,27 @@
+# The order of the links in the header of the website.
+# Changing the order here adjusts the order; add or remove entries as needed.
+
+main:
+  #- title: "Publications"
+  #  url: /publications/
+
+  #- title: "Talks"
+  #  url: /talks/    
+
+  #- title: "Teaching"
+  #  url: /teaching/    
+    
+  #- title: "Portfolio"
+  #  url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #  url: /year-archive/
+    
+  #- title: "CV"
+  #  url: /cv/
+
+  # - title: "Updates"
+  #   url: /timelines/
+
+  - title: "CV"
+    url: /files/hak_cv-2.pdf
