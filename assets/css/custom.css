@@ -152,6 +152,21 @@ code,
   border-radius: 10px;
 }
 
+.author__avatar img {
+  width: 175px;
+  height: 175px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+}
+
+@media (max-width: 925px) {
+  .author__avatar img {
+    width: 36px;
+    height: 36px;
+  }
+}
+
 .btn {
   font-weight: 600;
   letter-spacing: 0.01em;
