@@ -32,6 +32,42 @@ body {
   letter-spacing: 0.01em;
 }
 
+/* --------------------------------------------------------------------------
+   3D social network background
+   -------------------------------------------------------------------------- */
+
+.social-network-background {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  opacity: 0.56;
+}
+
+body,
+.masthead,
+#main,
+.page__footer {
+  position: relative;
+}
+
+.masthead,
+.page__footer {
+  z-index: 2;
+}
+
+#main {
+  z-index: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .social-network-background {
+    opacity: 0.35;
+  }
+}
+
 .page__title,
 .page__content h2,
 .page__content h3 {

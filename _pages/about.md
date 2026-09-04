@@ -11,16 +11,9 @@ redirect_from:
 
 ## About Me
 
-I am an undergraduate student majoring in Computer Science and Engineering at **Chung-Ang University**. I am also working as a research student at the **Machine INtelligence & Data Science (MINDS) Lab**, where I focus on developing machine learning methodologies that address complex, human-centric challenges. My primary objective is to design **socially responsible AI** models that directly impact real-world data issues.
+Hi! I’m **Htet Arkar**, an undergraduate student in *Computer Science and Engineering* at **Chung-Ang University**, where I work as a research intern at MINDS Lab.
 
-My work is built upon two core, interconnected pillars:
-
-1.  **Social Data Science:** I apply advanced data mining and **Graph Learning** techniques to analyze, model, and improve large-scale societal systems. A key focus is on **Social Network Analysis and Mining** to understand structural dynamics and develop strategies for **Polarization Mitigation**.
-
-2.  **Responsible AI:** I am dedicated to ensuring that AI models are ethical, robust, and ready for deployment in sensitive contexts. My specific field of interest here is **Fairness in AI Models**, alongside working on model **Interpretability** and overall system **Robustness**.
-
-I strive to bridge the gap between technical innovation and societal responsibility, building transparent, trustworthy, and impactful models.
-
+My research focuses on developing human-centric, socially **responsible AI** models, with an emphasis on graph neural networks (GNNs) and algorithmic fairness. I am also interested in social network analysis and leveraging *AI technologies for the benefit of society* by deepening the understanding of diverse data sources.
 
 
 ### 📍 Position
@@ -38,11 +31,3 @@ I strive to bridge the gap between technical innovation and societal responsibil
 * **Sejong University** (2021.09 - 2023.02)
     * Certificate in *Korean Language and Literature*
     * Level-6 Completed (6급 과정 수료)
-
-### 💡 Fun Facts
----
-* My English name is "June" and also call me "A.K". 
-* ☕ A coffee enthusiast who works part-time as a berista at cafe.
-* 📸 Photography helps me find balance and stay creative.
-* 🎥 Movies and nature walks are my favorite ways to relax and recharge.
-
