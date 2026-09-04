@@ -48,13 +48,18 @@ body {
 }
 
 body,
-.masthead,
 #main,
 .page__footer {
   position: relative;
 }
 
-.masthead,
+.masthead {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 20;
+}
+
 .page__footer {
   z-index: 2;
 }

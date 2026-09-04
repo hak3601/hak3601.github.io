@@ -7,7 +7,7 @@
   if (!context) return;
 
   const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
-  const pointer = { x: 0, y: 0, active: false };
+  const pointer = { x: 0, y: 0, screenX: 0, screenY: 0, active: false, dragging: false };
   const nodes = [];
   let animationFrame;
   let width = 0;
@@ -41,7 +41,7 @@
     if (reducedMotion.matches) draw();
   }
 
-  function draw() {
+  function draw(time = 0) {
     const isDark = document.documentElement.dataset.theme === "dark";
     const color = isDark ? "91, 141, 239" : "37, 99, 235";
     const centerX = width / 2;
@@ -84,23 +84,70 @@
       context.arc(node.x, node.y, node.size, 0, Math.PI * 2);
       context.fill();
     });
+
+    if (pointer.active) {
+      const nearest = projected
+        .map((node) => ({ node, distance: Math.hypot(node.x - pointer.screenX, node.y - pointer.screenY) }))
+        .sort((first, second) => first.distance - second.distance)
+        .slice(0, 3);
+
+      if (pointer.dragging) {
+        context.setLineDash([5, 7]);
+        context.lineDashOffset = -time * 0.03;
+        context.lineWidth = 1.4;
+        nearest.forEach(({ node, distance }) => {
+          if (distance > Math.min(width, height) * 0.27) return;
+          context.strokeStyle = `rgba(${color}, ${Math.max(0.18, 0.58 - distance / (Math.min(width, height) * 0.7))})`;
+          context.beginPath();
+          context.moveTo(pointer.screenX, pointer.screenY);
+          context.lineTo(node.x, node.y);
+          context.stroke();
+        });
+        context.setLineDash([]);
+        context.lineDashOffset = 0;
+      }
+
+      context.fillStyle = `rgba(${color}, 0.95)`;
+      context.shadowColor = `rgba(${color}, 0.8)`;
+      context.shadowBlur = pointer.dragging ? 18 : 11;
+      context.beginPath();
+      context.arc(pointer.screenX, pointer.screenY, pointer.dragging ? 5.5 : 4, 0, Math.PI * 2);
+      context.fill();
+      context.shadowBlur = 0;
+    }
   }
 
   function animate(time) {
     const pointerRotation = pointer.active ? pointer.x * 0.08 : 0;
     rotation = reducedMotion.matches ? 0 : time * 0.00008 + pointerRotation;
-    draw();
+    draw(time);
     if (!reducedMotion.matches) animationFrame = window.requestAnimationFrame(animate);
   }
 
   function updatePointer(event) {
     pointer.x = event.clientX / width - 0.5;
     pointer.y = event.clientY / height - 0.5;
+    pointer.screenX = event.clientX;
+    pointer.screenY = event.clientY;
     pointer.active = true;
+    if (reducedMotion.matches) draw(performance.now());
+  }
+
+  function startDragging(event) {
+    updatePointer(event);
+    pointer.dragging = true;
+  }
+
+  function stopDragging() {
+    pointer.dragging = false;
+    if (reducedMotion.matches) draw(performance.now());
   }
 
   window.addEventListener("resize", resize);
   window.addEventListener("pointermove", updatePointer, { passive: true });
+  window.addEventListener("pointerdown", startDragging, { passive: true });
+  window.addEventListener("pointerup", stopDragging, { passive: true });
+  window.addEventListener("pointercancel", stopDragging, { passive: true });
   reducedMotion.addEventListener("change", () => {
     window.cancelAnimationFrame(animationFrame);
     animate(performance.now());
