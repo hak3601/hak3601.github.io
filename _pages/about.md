@@ -23,11 +23,22 @@ My research focuses on developing human-centric, socially **responsible AI** mod
     * **Supervisor:** Prof. [Yunyong Ko](https://yy-ko.github.io)
     * May 2024 – Present 
 
+* **BladeX Education**
+    * Educational Consultant
+    * Jul 2026 – Present
+
 ### 🎓 Education
 ---
 * **Chung-Ang University** (2023.03 - 2027.02 expected)
     * B.S. in *Computer Science and Engineering* 
 
+* **The Education University of Hong Kong** (2026.07 - 2026.08)
+    * Summer School Exchange Program
+
 * **Sejong University** (2021.09 - 2023.02)
     * Certificate in *Korean Language and Literature*
     * Level-6 Completed (6급 과정 수료)
+
+* **University of Information Technology**, Yangon, Myanmar (2017.12 - 2020.05)
+    * B.Sc in *Computer Science*
+    * Completed 5 semesters of a 5-year curriculum (Voluntary Withdrawal)
