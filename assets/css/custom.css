@@ -157,7 +157,7 @@ code,
   height: 175px;
   object-fit: cover;
   object-position: center;
-  border-radius: 50%;
+  border-radius: 10px;
 }
 
 @media (max-width: 925px) {
