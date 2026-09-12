@@ -57,6 +57,24 @@
   }
 }
 
+.page__footer-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+}
+
+.page__footer-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.page__footer-visitormap {
+  flex: 0 0 auto;
+  width: 160px;
+}
+
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;

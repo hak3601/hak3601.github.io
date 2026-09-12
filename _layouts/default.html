@@ -21,8 +21,12 @@ layout: compress
 
     <div class="page__footer">
       <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
+        <div class="page__footer-row">
+          <div class="page__footer-text">
+            {% include footer.html %}
+          </div>
+          {% include footer/custom.html %}
+        </div>
       </footer>
     </div>
 
