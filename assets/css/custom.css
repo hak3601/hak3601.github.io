@@ -154,16 +154,13 @@ code,
 
 .author__avatar img {
   width: 176px;
-  height: 132px;
-  object-fit: cover;
-  object-position: center;
+  height: auto;
   border-radius: 10px;
 }
 
 @media (max-width: 925px) {
   .author__avatar img {
-    width: 48px;
-    height: 36px;
+    width: 36px;
   }
 }
 
